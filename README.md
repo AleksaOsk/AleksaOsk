@@ -13,8 +13,8 @@
 
 ### ⚙️ Мой стэк
 
-🚀 **<ins>Backend:</ins>** Spring Boot, Spring Web, Spring Cloud Gateway, RestClient\
-🗄️ **<ins>Data & Persistence:</ins>** Spring Data JPA, Hibernate, Spring JDBC, PostgreSQL, H2\
+🚀 **<ins>Backend:</ins>** Spring Boot, Spring Web, Spring Cloud Gateway, Spring Security, RestClient\
+🗄️ **<ins>Data & Persistence:</ins>** Spring Data JPA, Hibernate, Spring JDBC, PostgreSQL, H2, MongoDB\
 🧪 **<ins>Testing:</ins>** JUnit 5, Mockito, Spring Boot Test\
 🛠️ **<ins>Dev Tools & Utilities:</ins>** Lombok, MapStruct, SLF4J\
 🐳 **<ins>Infrastructure:</ins>** Docker, Maven\
