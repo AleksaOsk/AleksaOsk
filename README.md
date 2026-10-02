@@ -74,4 +74,3 @@
 ---
 <a href="https://t.me/sanyaaa_a" target="_blank"> <img src="icons/icon-tg-pink.png" alt="Телеграм"></a>
 <a href="mailto:ao@aleksa-oskina.ru" target="_blank"> <img src="icons/icon-email-pink.png" alt="Почта"></a>
----
