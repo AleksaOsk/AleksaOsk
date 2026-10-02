@@ -1,55 +1,84 @@
 <h1>
 👋🏻 Всем привет!<br>
-👩🏼‍💻 Меня зовут Саша, я Java - разработчик.
+👩🏼‍💻 Меня зовут Саша, я Java-разработчик.
 </h1>
 
 ### 🫶🏻 Обо мне
 
-🎓 Сертифицированный Java-разработчик с дипломом от Яндекс.Практикум\
-💼 В портфолио 6 пэт-проектов и я не собираюсь останавливаться\
-🌟 Люблю кодить, читать сложные фентези ("Дюна", "Властелин колец") и смотреть ПЧК🐥
+💼 Java-разработчик с коммерческим опытом разработки backend-сервисов и микросервисных систем.\
+☕ Основной стек — Java 17/21, Spring Boot, Spring MVC, Spring Data, Spring Security.\
+🗄️ Работаю с PostgreSQL, MongoDB и Redis.\
+🔗 Разрабатываю REST API и интеграции между сервисами через Feign и RabbitMQ.\
+🧪 Пишу unit и integration-тесты с JUnit, Mockito, Testcontainers и WireMock.\
+⚙️ Работала с Camunda BPMN, External Tasks, Delegate и переменными процессов.\
+🎨 Прошла профессиональную переподготовку по frontend-разработке и имею практический опыт HTML, CSS и JavaScript.\
+🚀 Параллельно развиваю собственный fullstack-проект SmartSchedule — сервис автоматического планирования повторяющихся рабочих задач.
 
 ---
 
 ### ⚙️ Мой стэк
 
-🚀 **<ins>Backend:</ins>** Spring Boot, Spring Web, Spring Cloud Gateway, Spring Security, RestClient\
-🗄️ **<ins>Data & Persistence:</ins>** Spring Data JPA, Hibernate, Spring JDBC, PostgreSQL, H2, MongoDB\
-🧪 **<ins>Testing:</ins>** JUnit 5, Mockito, Spring Boot Test\
-🛠️ **<ins>Dev Tools & Utilities:</ins>** Lombok, MapStruct, SLF4J\
-🐳 **<ins>Infrastructure:</ins>** Docker, Maven\
-🎨 **<ins>Frontend Basics:</ins>** HTML, CSS\
-💻 **<ins>IDEs & DB Tools:</ins>** IntelliJ IDEA, Postman, DBeaver
+🚀 **Backend:** Java 17/21, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, OpenFeign, REST API\
+🗄️ **Data & Persistence:** PostgreSQL, MongoDB, Redis, JPA, Hibernate, Liquibase\
+🧪 **Testing:** JUnit 5, Mockito, Spring Boot Test, Testcontainers, WireMock\
+🔗 **Integration:** RabbitMQ, REST, Feign, OpenAPI / Swagger\
+⚙️ **Process Automation:** Camunda BPMN, External Tasks, Delegate\
+🛠️ **Build & Dev Tools:** Maven, Git, Docker, Helm, Postman, DBeaver, IntelliJ IDEA\
+📊 **CI/CD & Monitoring:** GitLab CI/CD, Graylog\
+🧩 **Code Quality:** Checkstyle, Groovy\
+🧠 **Algorithms & Problem Solving:** Collections, Stream API, JGraphT, Z3\
+🎨 **Frontend:** HTML, CSS, JavaScript
 
 <img src="icons/Новый%20проект.png" alt="">
 
 ---
 
-### 💻 Дополнительно
+### 🚀 Что делаю сейчас
 
-#### **🧠 Алгоритмы и структуры данных**
+**SmartSchedule** — собственный fullstack-проект для автоматического планирования повторяющихся рабочих задач.
 
-- Книги:  
-  📖 "Грокаем Алгоритмы" - Адитья Бхаргава  
-  📖 "Структуры данных и алгоритмы Java" - Роберт Лафоре
-- Практика:  
-  💻 LeetCode\
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/aleksaosk)](https://leetcode.com/aleksaosk)  
-  ⌨️ CodeRun (50+ решенных задач)  
-  🎯 Тренировки по алгоритмам от Яндекса
+В проекте самостоятельно занимаюсь:
 
-#### **🚀 Изучаю сейчас**
+* проектированием backend-архитектуры;
+* разработкой REST API;
+* разработкой frontend и взаимодействием frontend с backend;
+* алгоритмом автоматического формирования расписания;
+* расчётом повторяющихся задач и их дат;
+* распределением задач с учётом рабочего времени и приоритетов;
+* обработкой конфликтов;
+* хранением данных в PostgreSQL;
+* авторизацией;
+* проектированием состояний и сценариев генерации расписания.
 
-- Kafka (распределенные системы)
-- Kubernetes (оркестрация)
-
-#### **📖 Углубляю знания Java**
-
-- "Java. Библиотека профессионала" - Кей Хорстман
-- "Философия Java" - Брюс Эккель
-- "Паттерны проектирования" - Фримен, Робсон
+**Стек:** Java, Spring Boot, PostgreSQL, REST API, HTML, CSS, JavaScript, Docker.
 
 ---
-<a href="https://t.me/sanyaaa_a" target="_blank"> <img src="icons/icon-tg-pink.png" alt="Телеграм"></a>
-<a href="mailto:ao@aleksa-oskina.ru" target="_blank"> <img src="icons/icon-email-pink.png" alt="Почта"></a>
+
+### 🧠 Дополнительно
+
+#### Алгоритмы и структуры данных
+
+💻 LeetCode\
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aleksaosk)](https://leetcode.com/aleksaosk)
+
+⌨️ CodeRun — 50+ решённых задач\
+🎯 Тренировки по алгоритмам от Яндекса
+
+В коммерческой работе также использую **JGraphT** для работы с графами и **Z3 SMT Solver** для поиска допустимых комбинаций в бизнес-валидациях.
+
+#### 📚 Сейчас изучаю
+
+* Kafka и распределённые системы
+* AI coding agents и использование LLM в разработке
+
 ---
+
+### 💬 Контакты
+
+<a href="https://t.me/sanyaaa_a" target="_blank">
+<img src="icons/icon-tg-pink.png" alt="Телеграм">
+</a>
+
+<a href="mailto:ao@aleksa-oskina.ru" target="_blank">
+<img src="icons/icon-email-pink.png" alt="Почта">
+</a>
